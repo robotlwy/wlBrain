@@ -25,12 +25,14 @@
             "id": "005874a14650770b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "前端/JavaScript/异步操作"
+                "file": "前端/网络/XHR和Fetch.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "异步操作"
+              "title": "XHR和Fetch"
             }
           },
           {
@@ -101,7 +103,7 @@
             }
           },
           {
-            "id": "8ece34b4537176af",
+            "id": "01e163be191ad0d7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,6 +205,16 @@
   },
   "active": "005874a14650770b",
   "lastOpenFiles": [
+    "前端/网络/image/Pasted image 20241125095233.png",
+    "前端/网络/image/Pasted image 20241125095154.png",
+    "前端/网络/image/Pasted image 20241125095145.png",
+    "前端/网络/image/Pasted image 20241125095107.png",
+    "前端/网络/image",
+    "前端/网络/XHR和Fetch.md",
+    "前端/网络/.md",
+    "前端/大师课/事件循环.md",
+    "前端/网络/网络.md",
+    "前端/网络",
     "前端/uni-app/uni-app .md",
     "前端/CSS/盒模型.md",
     "前端/CSS/css3手册.md",
@@ -231,23 +243,13 @@
     "前端/大师课/image",
     "前端/大师课/事件循环.pdf",
     "前端/命名规范.md",
-    "前端/大师课/事件循环.md",
     "前端/JavaScript/DOM/判断点击元素是否是每个元素的后代元素或是否包含每个子代元素.md",
     "前端/大师课/大师课.md",
     "前端/大师课",
     "前端/JavaScript/DOM/属性的操作.md",
-    "前端/html/html.md",
     "前端/html",
-    "前端/JavaScript/获取元素的方法.md",
-    "git/具体需求时的git操作.md",
-    "git/git 命令.md",
-    "前端/image/Pasted image 20241111203415.png",
-    "前端/image/Pasted image 20241111203057.png",
-    "前端/image/Pasted image 20241111202856.png",
     "前端/uni-app/uni-app vue2",
     "正则表达式",
-    "前端/uni-app/组件",
-    "前端/uni-app",
-    "git"
+    "前端/uni-app/组件"
   ]
 }
